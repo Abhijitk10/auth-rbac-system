@@ -314,12 +314,6 @@ server.port=8081
 
 ---
 
-## 📄 License
-
-This project is for educational purposes.
-
----
-
 ## 🙌 Author
 
 Built as a full-stack learning project demonstrating JWT authentication and role-based access control with Spring Boot and React.
