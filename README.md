@@ -315,5 +315,5 @@ server.port=8081
 ---
 
 ## 🙌 Author
--ABHIJIT KHEMKAR
+## ABHIJIT KHEMKAR
 Built as a full-stack learning project demonstrating JWT authentication and role-based access control with Spring Boot and React.
